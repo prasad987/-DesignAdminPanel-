@@ -1,0 +1,8 @@
+{
+  "name": "Decagon Seed Admin Panel",
+  "description": "A robust admin dashboard for seeding and managing marketing content for the Decagon platform, featuring AI-powered content suggestions via Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
